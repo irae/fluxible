@@ -4,7 +4,7 @@
  */
 'use strict';
 var createStore = require('fluxible/addons/createStore');
-var Router = require('routr');
+var Router = require('routr-irae');
 var inherits = require('inherits');
 
 var RouteStore = createStore({
